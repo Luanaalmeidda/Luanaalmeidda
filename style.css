@@ -1,3 +1,59 @@
 #titulo{
   text-align: center;
 }
+
+#secao_h {
+    
+    margin-bottom: 10px;
+}
+
+#secao_ol {
+    background-color: #ffcccb; 
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+#secao_ol_numerica {
+    background-color: #d3ffce; 
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+#secao_ol_alfa_minusculo {
+    background-color: #ffebcd; 
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+#secao_ol_alfa_maiusculo {
+    background-color: #e6e6fa; 
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+#secao_ol_alga_romano_minusculo {
+    background-color: #f0e68c; 
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+#secao_ol_alga_romano_maiusculo {
+    background-color: #dda0dd; 
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.flex{
+  flex: 1 1 45%; 
+  margin: 10px; 
+  padding: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  border-radius: 5px; 
+}
+
+
+body {
+  display: flex;
+  flex-wrap: wrap; 
+  justify-content: space-around; 
+}
