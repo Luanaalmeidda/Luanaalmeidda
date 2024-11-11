@@ -8,37 +8,37 @@
 }
 
 #secao_ol {
-    background-color: #ffcccb; 
+    background-color: #F8BBD0; 
     padding: 20px;
     margin-bottom: 10px;
 }
 
 #secao_ol_numerica {
-    background-color: #d3ffce; 
+    background-color: #F4C2C2; 
     padding: 20px;
     margin-bottom: 10px;
 }
 
 #secao_ol_alfa_minusculo {
-    background-color: #ffebcd; 
+    background-color: #E7C8C8; 
     padding: 20px;
     margin-bottom: 10px;
 }
 
 #secao_ol_alfa_maiusculo {
-    background-color: #e6e6fa; 
+    background-color: #F2D1D1; 
     padding: 20px;
     margin-bottom: 10px;
 }
 
 #secao_ol_alga_romano_minusculo {
-    background-color: #f0e68c; 
+    background-color: #D8A7B1; 
     padding: 20px;
     margin-bottom: 10px;
 }
 
 #secao_ol_alga_romano_maiusculo {
-    background-color: #dda0dd; 
+    background-color: #E0B2B2; 
     padding: 20px;
     margin-bottom: 10px;
 }
